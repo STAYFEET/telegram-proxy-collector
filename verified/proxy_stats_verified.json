@@ -1,18 +1,13 @@
 {
-  "timestamp_utc": "2026-04-10T14:17:03.750086+00:00",
-  "total_raw": 0,
-  "total_verified": 0,
-  "ru_count": 0,
-  "eu_count": 0,
-  "domain_count": 0,
+  "timestamp_utc": "2026-04-10T14:25:04.100381",
+  "total_raw": 150,
+  "total_verified": 33,
+  "ru_count": 3,
+  "eu_count": 30,
   "telethon_used": false,
-  "httpx_http2": true,
-  "best_ru_ping": null,
-  "best_eu_ping": null,
-  "best_ru_avg": null,
-  "best_eu_avg": null,
-  "execution_time": 69.7,
-  "sources_count": 12,
-  "workers": 50,
-  "max_ping": 2.0
+  "best_ru_ping": 0.106,
+  "best_eu_ping": 0.006,
+  "execution_time": 11.1,
+  "sources_count": 6,
+  "workers": 100
 }
