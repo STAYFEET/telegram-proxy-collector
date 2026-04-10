@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/ALIILAPRO/MTProtoProxy/main/mtproto.txt",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  },
+  {
+    "url": "https://mtpro.xyz/api/?type=mtproto-ru",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/yemixzy/proxy-projects/main/proxies/mtproto.txt",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/soroushmirzaei/telegram-proxies-collector/main/proxies/ip/mtproto",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  },
+  {
+    "url": "https://mtpro.xyz/api/?type=mtproto",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/4IceG/Personal-proxies/master/zap-mtproto",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/hookzof/socks5_list/master/tg/mtproto.txt",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  },
+  {
+    "url": "https://proxylist.geonode.com/api/proxy-list?protocols=socks5&limit=100&sort_by=speed",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Grim1313/mtproto-for-telegram/refs/heads/master/all_proxies.txt",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/themrb/mtproto-proxy-data/main/all_proxies.txt",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/all",
+    "fetched": 0,
+    "verified": 0,
+    "pass_rate": 0,
+    "failed": true
+  }
+]
