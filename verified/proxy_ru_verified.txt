@@ -1,6 +1,6 @@
 # Verified RU Proxies (1)
-# Updated: 2026-04-18 03:20:11 UTC
+# Updated: 2026-04-18 05:45:35 UTC
 # Method: TCP_OK
-# Best ping: 0.171s
+# Best ping: 0.101s
 
 tg://proxy?server=bezobhoda.freeon.name&port=8443&secret=eeed1a5a7f339b8ff9840d52df123829706164732e78352e7275
