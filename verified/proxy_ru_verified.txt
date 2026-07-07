@@ -1,6 +1,6 @@
 # Verified RU Proxies (1)
-# Updated: 2026-07-07 11:15:52 UTC
+# Updated: 2026-07-07 14:54:18 UTC
 # Method: TCP_OK
-# Best ping: 0.154s
+# Best ping: 0.197s
 
 tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275
