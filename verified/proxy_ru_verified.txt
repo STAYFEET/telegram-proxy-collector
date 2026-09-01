@@ -1,7 +1,8 @@
-# Verified RU Proxies (2)
-# Updated: 2026-09-01 04:47:11 UTC
+# Verified RU Proxies (3)
+# Updated: 2026-09-01 13:25:03 UTC
 # Method: TCP_OK
-# Best ping: 0.246s
+# Best ping: 0.145s
 
-tg://proxy?server=freeconnect.lol&port=443&secret=eef7a565db46f8f5bf156054d86db42969617669746f2e7275
+tg://proxy?server=s4.assetflux.org&port=443&secret=eed9cf709eb48bb5a37471fba84864bd7e766b2e7275
 tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
+tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275
