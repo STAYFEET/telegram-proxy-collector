@@ -1,7 +1,6 @@
-# Verified RU Proxies (2)
-# Updated: 2026-09-01 22:31:15 UTC
+# Verified RU Proxies (1)
+# Updated: 2026-09-02 04:08:38 UTC
 # Method: TCP_OK
-# Best ping: 0.199s
+# Best ping: 0.215s
 
-tg://proxy?server=cdn3.cdnwave.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275
 tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef23617669746f2e7275
