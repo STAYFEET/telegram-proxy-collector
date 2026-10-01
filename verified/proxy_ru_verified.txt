@@ -1,6 +1,6 @@
 # Verified RU Proxies (1)
-# Updated: 2026-09-30 20:43:39 UTC
+# Updated: 2026-10-01 05:29:54 UTC
 # Method: TCP_OK
-# Best ping: 0.353s
+# Best ping: 0.333s
 
 tg://proxy?server=cdn1.cdntide.org&port=443&secret=eeebfc2fcebe840e19f29cf87fadfaad78686f66662e7275
